@@ -1,0 +1,9 @@
+﻿.\venv\Scripts\python.exe : C:\Users\Md Parwez Alam\OneDrive\Desktop\Medical-Chatbot\Medical_Chatbot\venv\Lib\site-packages\langchain_core\_api\deprecation.py:25: UserWarning: Core Pydantic V1 functionality 
+isn't compatible with Python 3.14 or greater.
+At line:1 char:1
++ .\venv\Scripts\python.exe app.py > start_debug.log 2>&1
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo              : NotSpecified    : (C:\Users\Md Par.    ...14 or greater.:S    tring) [], RemoteEx    ception
+    + FullyQualifiedErr    orId : NativeComman    dError
+ 
+  from pydantic.v1.fields import FieldInfo as FieldInfoV1
